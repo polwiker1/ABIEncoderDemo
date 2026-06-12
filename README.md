@@ -1,4 +1,5 @@
 # ABIEncoderDemo
+Ejemplos prácticos de codificación ABI y generación de identificadores en Solidity con tests y 100% de coverage.
 
 Foundry study project with simple Solidity examples of:
 
